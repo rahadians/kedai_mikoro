@@ -294,7 +294,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 special-grid lauk">
+					<div class="col-lg-4 col-md-6 special-grid paket">
 						<div class="gallery-single fix">
 							<img src="images/menu/ricebowl_ayamJamur.jpg" class="img-fluid" alt="Image">
 							<div class="why-text">
@@ -304,7 +304,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-4 col-md-6 special-grid lauk">
+					<div class="col-lg-4 col-md-6 special-grid paket">
 						<div class="gallery-single fix">
 							<img src="images/menu/Ricebowl_mix_teriyaki_sausasin.jpg" class="img-fluid" alt="Image">
 							<div class="why-text">
@@ -535,3 +535,4 @@
 		</div>
 		</div>
 		<!-- End Menu -->
+
