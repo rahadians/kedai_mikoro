@@ -98,7 +98,7 @@
 
 		/* Whatsapp Settings */
 		var walink = "https://web.whatsapp.com/send",
-			phone = "6285770552122",
+			phone = "6281210010055",
 			walink2 = "Halo Kitchen Nona saya ingin order ",
 			text_yes = "Terkirim.",
 			text_no = "Isi semua Formulir lalu klik Send.";
